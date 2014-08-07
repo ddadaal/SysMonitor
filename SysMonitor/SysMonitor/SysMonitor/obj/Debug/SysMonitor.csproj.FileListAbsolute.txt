@@ -1,0 +1,12 @@
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\bin\Debug\SysMonitor.exe
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\bin\Debug\SysMonitor.pdb
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\SysMonitor.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\MainWindow.baml
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\MainWindow.g.cs
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\App.g.cs
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\SysMonitor_MarkupCompile.cache
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\SysMonitor.g.resources
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\SysMonitor.Properties.Resources.resources
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\SysMonitor.csproj.GenerateResource.Cache
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\SysMonitor.exe
+D:\MyDocuments\Visual Studio 2013\Projects\SysMonitor\SysMonitor\SysMonitor\obj\Debug\SysMonitor.pdb
